@@ -1,5 +1,5 @@
 # SIMPLE-CALCULATOR
-Config files for my GitHub profile.
+
 
 def add(x, y):
     return x + y
